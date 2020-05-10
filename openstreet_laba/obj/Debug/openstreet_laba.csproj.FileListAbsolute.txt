@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\bin\Debug\openstreet_laba.exe.config
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\bin\Debug\openstreet_laba.exe
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\bin\Debug\openstreet_laba.pdb
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\bin\Debug\GMap.NET.Core.dll
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\obj\Debug\openstreet_laba.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\obj\Debug\openstreet_laba.Form1.resources
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\obj\Debug\openstreet_laba.Properties.Resources.resources
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\obj\Debug\openstreet_laba.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\obj\Debug\openstreet_laba.exe
+C:\Users\1\Desktop\om\openstreet_laba\openstreet_laba\obj\Debug\openstreet_laba.pdb
